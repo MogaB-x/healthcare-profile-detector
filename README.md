@@ -8,6 +8,19 @@ This project provides a complete solution for detecting and merging duplicate pa
 
 ---
 
+## Contributions by MogaB-x
+
+- Implemented backend authentication APIs with encrypted JWT and role-based access.
+- Developed frontend components for patient management, including:
+  - Manual merge pop-up
+  - Add/Edit patient forms
+  - Search functionality 
+- Integrated frontend and backend to enable:
+  - Login flow with role-based access
+  - Patient search and retrieval
+  - Manual merge operations
+
+
 ## Table of Contents
 - [Overview](#overview)
 - [Features](#features)
