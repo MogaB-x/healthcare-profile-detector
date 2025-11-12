@@ -1,5 +1,5 @@
 
-# Duplicate Profile Detector — Unified Documentation
+# Duplicate Profile Detector — Documentation
 
 This project provides a complete solution for detecting and merging duplicate patient profiles, including:
 - Synthetic data generation
